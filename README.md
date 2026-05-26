@@ -48,6 +48,39 @@ This project analyses IPL 2022 match-level data to uncover insights about team p
 - Highest individual score
 - Best bowling figures
 
+---
+
+# Dashboard / Visualisations
+
+### Team Wins
+![](images/number_of_matches_won_by_each_team.png)
+
+---
+
+### Toss Decision Trends
+![](images/toss_decision_trends.png)
+
+---
+
+### Winning Margin Types
+![](images/winning_margin_types.png)
+
+---
+
+### Player of Match
+![](images/top_10_plauers_with_man_of_the_match.png)
+
+---
+
+### Additional Visuals
+![](images/chart_5.png)
+
+![](images/chart_6.png)
+
+![](images/chart_7.png)
+
+---
+
 ## Key Findings
 - Gujarat won the most matches.
 - Toss winner converted into match wins around 48.65%.
