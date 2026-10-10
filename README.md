@@ -90,8 +90,8 @@ This project analyses IPL 2022 match-level data to uncover insights about team p
 ## Run Locally
 
 ```bash
-pip install -r requirements.txt
-jupyter notebook
+pip install pandas numpy matplotlib seaborn plotly notebook
+jupyter notebook main.ipynb
 ```
 
 ## Author
